@@ -166,7 +166,7 @@ fa:link {
 
 .trapezoid1::before {
   color: #ffff;
-  content: "";
+  content: "SSC";
   height: 7vh;
   white-space: pre; /* or pre-wrap */
   font-weight: 600;
@@ -204,7 +204,7 @@ fa:link {
 
 .trapezoid2::before {
   color: #ffff;
-  content: "";
+  content: "HSSC";
   height: 7vh;
   white-space: pre; /* or pre-wrap */
   font-weight: 600;
